@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinazarb
 - 👀 I’m interested in building full-stack apps
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Express and Node!
 
 <!---
 tinazarb/tinazarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
