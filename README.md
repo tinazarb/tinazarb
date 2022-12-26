@@ -1,8 +1,6 @@
-<!-- - 👋 Hi, I’m @tinazarb
-- 👀 I’m interested in building full-stack apps
-- 🌱 I’m currently learning Javascript, Express and Node!
- -->
-<!---
-tinazarb/tinazarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Tina, a full stack software engineer from New York
+- 🌱 I’m interested in building full-stack apps
+- 💻 I’m currently working with JavaScript, React, Redux, Express, and Sequelize
+- View my latest projects <a href="https:///www.tinazarb.github.io/">here</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tinazarb)](https://git.io/streak-stats)
